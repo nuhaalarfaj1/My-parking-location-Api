@@ -1,0 +1,15 @@
+
+
+button{
+    padding: 30px;
+    margin: 20px;
+    background: green;
+   
+
+}
+body{
+    background-repeat: no-repeat, repeat;
+    background-size:1300px;}
+   h1{
+       color: rgb(197, 170, 48);
+   }
